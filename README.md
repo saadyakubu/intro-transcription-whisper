@@ -3,7 +3,7 @@
 Basic AI Transcription App utilizing Whisper API and based on tutorial series on [learnweb3.io](https://learnweb3.io)
 
 ### How to run the app
-Rename .env-sample to .env and your OPENAI API keys
+Rename .env-sample to .env and enter your OPENAI API keys
 ```
 npm install
 npm run dev
